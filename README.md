@@ -1,1 +1,1 @@
-# Botz
+untuk menjalankan ketik node app.js 
